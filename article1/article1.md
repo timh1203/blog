@@ -1,4 +1,4 @@
-<figure><img src="assets/article-1-img/open-book-1024x576.jpg" alt="article-banner" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/></figure>
+<figure><img src="assets/article-1-img/open-book-1024x576.png" alt="article-banner" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/></figure>
 
 # Learning Git and Github - Now Hating That I Love It
 ## by Timothy Hoang

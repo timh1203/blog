@@ -1,4 +1,5 @@
 <figure><img src="assets/article-1-img/open-book-1024x576.png" alt="article-banner" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/></figure>
+<figcaption style=" text-align: center;">Photo by <a href="https://unsplash.com/photos/082dCXNKfxU">Alex Read</a> on <a href="https://unsplash.com/">Unsplash</a></figcaption>
 
 # Learning Git and Github - Now Hating That I Love It
 ## by Timothy Hoang

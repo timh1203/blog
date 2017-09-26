@@ -1,4 +1,5 @@
 <figure><img src="assets/article-2-img/guatape-view-1024x576.png" alt="article-banner" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/></figure>
+<figcaption style=" text-align: center;">Photo by <a href="https://unsplash.com/photos/-rtahH8o1aM">Dan Gold</a> on <a href="https://unsplash.com/">Unsplash</a></figcaption>
 
 # 100 Days of Code - Parallels with El Penol de Guatape
 ## by Timothy Hoang
@@ -45,7 +46,7 @@ My Chingu-Voyage team project still didn't take off. Sad face. So on day 51, I s
 
 <figure><img src="assets/article-2-img/75th-tweet-1024x576.png" alt="75th Tweet of #100DaysOfCode" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">My 75th tweet with #100DaysOfCode.</figcaption></figure>
 
-### Days 76 through 95 Lord, there's another mini tower to the top!? May I have permission to die?
+### Days 76 through 95 Lawdy me, there's another mini tower to the top!? May I have permission to die?
 I started "[Practical JavaScript](https://watchandcode.com/p/practical-javascript)" with Gordon Zhu and continued on with my portfolio website. Day 78 was the day we finished [our team app for Chingu-Voyage](https://chrome.google.com/webstore/detail/turtle-dash/odijnkiclhddnfdgnbjghchkhagnooek) because that's when I wrote a Chrome Web Store description for my team. I finally finished Practical JavaScript on day 89. I also re-coded my quote machine app without Codepen on day 79. I decided that Codepen was too clunky and I wanted more practice with using Github to host my projects. Then, I went to an "Intro to React" workshop on day 87, which didn't turn out to be all that great but got me inspired to learn more. I also published my first blog article entitled "[Learning Git and Github - Now Hating That I Love It](http://timothyhoang.net/article-1.html)" on day 89 which wasn't too difficult to write but I really got a kick out of revisiting my writing skills. After I finished my quote machine app, I started re-coding my weather app without Codepen on day 91 and still working on it today (day 95). Now I'm back in the states so I wanted to collaborate with my developer friend to host events for our local Free Code Camp group on day 91. I went to a CSS grids layout event with speaker Jesse Eldredge on day 93. That weekend, we had our first FCC meetup on day 94 which was really productive! That finally brings us to today, day 95. Phew!
 
 <figure><img src="assets/article-2-img/95th-tweet-1024x576.png" alt="95th Tweet of #100DaysOfCode" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">My 95th tweet with #100DaysOfCode.</figcaption></figure>

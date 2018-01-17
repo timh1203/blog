@@ -3,7 +3,7 @@
 
 # Learning Git and Github - Now Hating That I Love It
 ## by Timothy Hoang
-### Pharmacist to Front End Developer
+### Pharmacist to JavaScript Developer
 Tags: Git, Github, Version Control With Git, Github and Collaboration, Richard Kalehoff, Udacity
 
 ## Why I didn't learn this skill initially

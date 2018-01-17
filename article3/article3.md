@@ -3,7 +3,7 @@
 
 # Web Development Path - Start with Headphones
 ## by Timothy Hoang
-### Pharmacist to Front End Developer
+### Pharmacist to JavaScript Developer
 Tags: Code Newbie, Code Beginner, Staying Focused, Self-Motivation
 
 ## Introduction

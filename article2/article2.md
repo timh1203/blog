@@ -3,7 +3,7 @@
 
 # 100 Days of Code - Parallels with El Penol de Guatape
 ## by Timothy Hoang
-### Pharmacist to Front End Developer
+### Pharmacist to JavaScript Developer
 Tags: 100 days of code, El Penol de Guatape, Coding Everyday, Daily Logging
 
 ## Introduction

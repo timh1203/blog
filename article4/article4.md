@@ -13,7 +13,7 @@ If you're still here, you probably want to read the article. Here we go...after 
 
 ### Days 101 through 125
 
-<figure><img src="assets/article-4-img/day-118.png" alt="Day 118 Tweet" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Day 118 Tweet</figcaption></figure>
+[![](assets/article-4-img/day-118.png)](https://twitter.com/travelDev/status/920634966324760576)
 
 I started working on the Free Code Camp Wikipedia app at the beginning of this challenge and finished on day 118. To assist with the challenge, I took a free course called [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) from Udacity which helped out a lot! I wanted to get a better handle on AJAX (or more properly, AJAJ), Fetch API, and dealing with promises. On day 109, I also started [Wes Bos's ES6 for Everyone](https://es6.io/) to prime myself for React. This is one of the best courses I have ever owned and still reviewing it after my 200 days of code (there's a lot that came with ES2015/ES6). I do firmly believe that having a good handle on var/let/const variables, scope, spread operator, destructuring, classes, looping with .map/for in/for of, understanding Object.keys/values/entries, and other basic ES6 concepts will help you immensely with React. After all, React is JavaScript at the end of the day and consequently will make your JavaScript better too.
 
@@ -22,11 +22,11 @@ I did started a free [React course on Edx](https://www.edx.org/course/introducti
 ### Days 126 through 150
 This quarter of the leg, I started on the [Free Code Camp Twitch API app](https://timh1203.github.io/twitch-app/). I knew it was going to be more of Fetch API so it was going to be a quick project and I finished on day 130. I started doing [HackerRank](https://www.hackerrank.com/) challenges but evertually stopped since the UI was overcomplicated ([CodeWars](https://www.codewars.com/) is a better platform anyways). My friends and I also attempted to work on a project and do interview prep together but it eventually failed as other things took priority. On day 141, I switched over to [Manjaro Linux](https://manjaro.org/) which was so much better than Ubuntu Mate. Some of the features I loved were Yakuake (a persistent terminal), multiple window switches (try the Desktop Cube Animation, pretty slick), Octopi software manager (watches all your software and informs you of updates), and just the beautiful UI that came with the KDE install. 
 
-<figure><img src="assets/article-4-img/manjaro-linux.png" alt="Manjaro Linux" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Manjaro Linux</figcaption></figure>
+![](assets/article-4-img/manjaro-linux.png)
 
 Also, I had a job interview for a front-end web developer position on day 145 to build websites with their stack: JavaScript, PHP, and Bootstrap. The company had a couple more rounds of interviews and would let me know in 2 weeks. Unfortunately, I never heard back from them. I proceeded to start [Learn React.js](https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html), an introductory course on Lynda made in 2016, but it was using old syntax like `React.createClass` (where most people use stateless functional components or ES6 classes). I still pushed through it but it was tough trying to discern between old syntax versus new. If you ever do find yourself working with old React code, [react-codemod](https://github.com/reactjs/react-codemod) is a godsend and helps convert your syntax. It helped me launch the notepad app from that Lynda course actually. 
 
-<figure><img src="assets/article-4-img/day-140.png" alt="Day 140 Tweet" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Day 140 Tweet</figcaption></figure>
+[![](assets/article-4-img/day-140.png)](https://twitter.com/travelDev/status/928633263656263682)
 
 Afterwards, I started [React.js Essential Training Course](https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html) on Lynda on day 148. This course was much better but still didn't get into a lot of depth. As a general opinion, Lynda.com courses never go into a lot of explanation or best practices. Some of the courses are hit or miss since they might be older. This was my experience with some of the other courses on there as well. The courses explain some topics well but gloss over the others. The format feels more like watch-me-code and learn. I don't know about you but I learn better if it is explained well and if I code something myself. I shouldn't complain since my library offered the subscription for free (your library might have it too, you should check). They have other cool stuff on there anyways which I hope to check out in the future.
 
@@ -35,25 +35,25 @@ Oh, and I completed all my Pharmacist CE credits too and all 15 long articles wi
 ### Days 151 through 175
 I started a [photography website](https://timh1203.github.io/photo-site/) for a friend to try out Materialize CSS and an Instagram API. I made a kick-butt contact form for it too. I finished the ReactJS Essential Training course on day 157. 
 
-<figure><img src="assets/article-4-img/day-159.png" alt="Day 140 Tweet" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Day 159 Tweet</figcaption></figure>
+[![](assets/article-4-img/day-159.png)](https://twitter.com/travelDev/status/935527269052841985)
 
 Then came the intership company in Ohio. I had an online interview and they wanted to see what web app I have completed. Up to this point, I only had the Twitch API app that I built. So I came up with the idea to build a project in React for an event management system that I mentioned during the interview. I strapped down for 1 week and really learned React. It was amazing what I picked up under a time constraint. I built something basic and sent them an email. Unfortunately, I never heard from them. That was okay because I learned a tremendous amount of React anyways and it eventually lead me to try out Firebase too.
 
-<figure><img src="assets/article-4-img/day-164.png" alt="Day 140 Tweet" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Day 164 Tweet</figcaption></figure>
+[![](assets/article-4-img/day-164.png)](https://twitter.com/travelDev/status/937357070520782848)
 
 We continued our regular Free Code Camp meetups during this period. At one event, we even had record-setting 7 devs turn up. It was also my birthday and Christmas season so there were a lot of different festivities. I got deeper into Firebase and learned a lot about data structure manipulation too.
 
 ### Days 176 through 195
 
-<figure><img src="assets/article-4-img/day-176.png" alt="Day 140 Tweet" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Day 176 Tweet</figcaption></figure>
+[![](assets/article-4-img/day-176.png)](https://twitter.com/travelDev/status/941654126152355840)
 
 At this point, I was stuck on my React app, [Respondez](https://timh1203.github.io/respondez-app/). I didn't quite know how to do deep state manipulation in React (which you should not do by the way). Yet I was stubborn and didn't know any better. Eventually, I changed gears a bit. I went after a lot of algorithms on Free Code Camp and Codewars to try to deepen my JavaScript understanding. In the meantime, I started Wes Bos's paid [React For Beginners course](https://reactforbeginners.com/) so I can keep my React skills sharpened. I pretty much finished the course on day 180 but some of the code I couldn't figure out how to tie in the Firebase based on the videos and some research.
 
-<figure><img src="assets/article-4-img/day-191.png" alt="Day 140 Tweet" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Day 191 Tweet</figcaption></figure>
+[![](assets/article-4-img/day-191.png)](https://twitter.com/travelDev/status/947126358303485952)
 
 I continued with the momentum and pushed through Wes Bos's free [Learn Redux course](https://learnredux.com/) to see if there's anything that would help my Respondez app. I finished the Redux course on day 191 with data from my own instagram account. Turns out that Redux is more for much larger applications and all I really needed was React's inherent state and the [update-immutable](https://github.com/hoytech/update-immutable) library.
 
-<figure><img src="assets/article-4-img/day-200.png" alt="Day 140 Tweet" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/><figcaption style=" text-align: center;">Day 200 Tweet</figcaption></figure>
+[![](assets/article-4-img/day-200.png)](https://twitter.com/travelDev/status/950362473542057984)
 
 I came back to my [Respondez App](https://timh1203.github.io/respondez-app/) and pushed through all the hurdles with bitten nails and pulled hairs. I'm glad I returned since you can see it for what it is today.
 

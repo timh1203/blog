@@ -1,4 +1,4 @@
-<figure><img src="assets/article-4-img/icy-sunrise.jpg" alt="article-banner" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/></figure>
+<figure><img src="assets/article-4-img/icy-sunrise-title.jpg" alt="article-banner" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/></figure>
 <figcaption style=" text-align: center;">Photo by <a href="https://unsplash.com/photos/d-OQYiy1gQo">Paul Morris</a> on <a href="https://unsplash.com/">Unsplash</a></figcaption>
 
 # After 200 days of code
